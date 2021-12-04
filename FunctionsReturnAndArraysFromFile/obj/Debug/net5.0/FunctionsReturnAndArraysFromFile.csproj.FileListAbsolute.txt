@@ -1,0 +1,16 @@
+D:\Programmeerimise algkursus (RKE132)\FunctionsReturnAndArraysFromFile\FunctionsReturnAndArraysFromFile\bin\Debug\net5.0\FunctionsReturnAndArraysFromFile.exe
+D:\Programmeerimise algkursus (RKE132)\FunctionsReturnAndArraysFromFile\FunctionsReturnAndArraysFromFile\bin\Debug\net5.0\FunctionsReturnAndArraysFromFile.deps.json
+D:\Programmeerimise algkursus (RKE132)\FunctionsReturnAndArraysFromFile\FunctionsReturnAndArraysFromFile\bin\Debug\net5.0\FunctionsReturnAndArraysFromFile.runtimeconfig.json
+D:\Programmeerimise algkursus (RKE132)\FunctionsReturnAndArraysFromFile\FunctionsReturnAndArraysFromFile\bin\Debug\net5.0\FunctionsReturnAndArraysFromFile.runtimeconfig.dev.json
+D:\Programmeerimise algkursus (RKE132)\FunctionsReturnAndArraysFromFile\FunctionsReturnAndArraysFromFile\bin\Debug\net5.0\FunctionsReturnAndArraysFromFile.dll
+D:\Programmeerimise algkursus (RKE132)\FunctionsReturnAndArraysFromFile\FunctionsReturnAndArraysFromFile\bin\Debug\net5.0\ref\FunctionsReturnAndArraysFromFile.dll
+D:\Programmeerimise algkursus (RKE132)\FunctionsReturnAndArraysFromFile\FunctionsReturnAndArraysFromFile\bin\Debug\net5.0\FunctionsReturnAndArraysFromFile.pdb
+D:\Programmeerimise algkursus (RKE132)\FunctionsReturnAndArraysFromFile\FunctionsReturnAndArraysFromFile\obj\Debug\net5.0\FunctionsReturnAndArraysFromFile.csproj.AssemblyReference.cache
+D:\Programmeerimise algkursus (RKE132)\FunctionsReturnAndArraysFromFile\FunctionsReturnAndArraysFromFile\obj\Debug\net5.0\FunctionsReturnAndArraysFromFile.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmeerimise algkursus (RKE132)\FunctionsReturnAndArraysFromFile\FunctionsReturnAndArraysFromFile\obj\Debug\net5.0\FunctionsReturnAndArraysFromFile.AssemblyInfoInputs.cache
+D:\Programmeerimise algkursus (RKE132)\FunctionsReturnAndArraysFromFile\FunctionsReturnAndArraysFromFile\obj\Debug\net5.0\FunctionsReturnAndArraysFromFile.AssemblyInfo.cs
+D:\Programmeerimise algkursus (RKE132)\FunctionsReturnAndArraysFromFile\FunctionsReturnAndArraysFromFile\obj\Debug\net5.0\FunctionsReturnAndArraysFromFile.csproj.CoreCompileInputs.cache
+D:\Programmeerimise algkursus (RKE132)\FunctionsReturnAndArraysFromFile\FunctionsReturnAndArraysFromFile\obj\Debug\net5.0\FunctionsReturnAndArraysFromFile.dll
+D:\Programmeerimise algkursus (RKE132)\FunctionsReturnAndArraysFromFile\FunctionsReturnAndArraysFromFile\obj\Debug\net5.0\ref\FunctionsReturnAndArraysFromFile.dll
+D:\Programmeerimise algkursus (RKE132)\FunctionsReturnAndArraysFromFile\FunctionsReturnAndArraysFromFile\obj\Debug\net5.0\FunctionsReturnAndArraysFromFile.pdb
+D:\Programmeerimise algkursus (RKE132)\FunctionsReturnAndArraysFromFile\FunctionsReturnAndArraysFromFile\obj\Debug\net5.0\FunctionsReturnAndArraysFromFile.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Programmeerimise algkursus (RKE132)\FunctionsReturnAndArraysFromFile\PickRandomFromFile\bin\Debug\net5.0\PickRandomFromFile.exe
+D:\Programmeerimise algkursus (RKE132)\FunctionsReturnAndArraysFromFile\PickRandomFromFile\bin\Debug\net5.0\PickRandomFromFile.deps.json
+D:\Programmeerimise algkursus (RKE132)\FunctionsReturnAndArraysFromFile\PickRandomFromFile\bin\Debug\net5.0\PickRandomFromFile.runtimeconfig.json
+D:\Programmeerimise algkursus (RKE132)\FunctionsReturnAndArraysFromFile\PickRandomFromFile\bin\Debug\net5.0\PickRandomFromFile.runtimeconfig.dev.json
+D:\Programmeerimise algkursus (RKE132)\FunctionsReturnAndArraysFromFile\PickRandomFromFile\bin\Debug\net5.0\PickRandomFromFile.dll
+D:\Programmeerimise algkursus (RKE132)\FunctionsReturnAndArraysFromFile\PickRandomFromFile\bin\Debug\net5.0\ref\PickRandomFromFile.dll
+D:\Programmeerimise algkursus (RKE132)\FunctionsReturnAndArraysFromFile\PickRandomFromFile\bin\Debug\net5.0\PickRandomFromFile.pdb
+D:\Programmeerimise algkursus (RKE132)\FunctionsReturnAndArraysFromFile\PickRandomFromFile\obj\Debug\net5.0\PickRandomFromFile.csproj.AssemblyReference.cache
+D:\Programmeerimise algkursus (RKE132)\FunctionsReturnAndArraysFromFile\PickRandomFromFile\obj\Debug\net5.0\PickRandomFromFile.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmeerimise algkursus (RKE132)\FunctionsReturnAndArraysFromFile\PickRandomFromFile\obj\Debug\net5.0\PickRandomFromFile.AssemblyInfoInputs.cache
+D:\Programmeerimise algkursus (RKE132)\FunctionsReturnAndArraysFromFile\PickRandomFromFile\obj\Debug\net5.0\PickRandomFromFile.AssemblyInfo.cs
+D:\Programmeerimise algkursus (RKE132)\FunctionsReturnAndArraysFromFile\PickRandomFromFile\obj\Debug\net5.0\PickRandomFromFile.csproj.CoreCompileInputs.cache
+D:\Programmeerimise algkursus (RKE132)\FunctionsReturnAndArraysFromFile\PickRandomFromFile\obj\Debug\net5.0\PickRandomFromFile.dll
+D:\Programmeerimise algkursus (RKE132)\FunctionsReturnAndArraysFromFile\PickRandomFromFile\obj\Debug\net5.0\ref\PickRandomFromFile.dll
+D:\Programmeerimise algkursus (RKE132)\FunctionsReturnAndArraysFromFile\PickRandomFromFile\obj\Debug\net5.0\PickRandomFromFile.pdb
+D:\Programmeerimise algkursus (RKE132)\FunctionsReturnAndArraysFromFile\PickRandomFromFile\obj\Debug\net5.0\PickRandomFromFile.genruntimeconfig.cache

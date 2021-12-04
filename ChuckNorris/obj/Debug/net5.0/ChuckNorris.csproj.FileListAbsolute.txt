@@ -1,0 +1,16 @@
+D:\Programmeerimise algkursus (RKE132)\FunctionsReturnAndArraysFromFile\ChuckNorris\bin\Debug\net5.0\ChuckNorris.exe
+D:\Programmeerimise algkursus (RKE132)\FunctionsReturnAndArraysFromFile\ChuckNorris\bin\Debug\net5.0\ChuckNorris.deps.json
+D:\Programmeerimise algkursus (RKE132)\FunctionsReturnAndArraysFromFile\ChuckNorris\bin\Debug\net5.0\ChuckNorris.runtimeconfig.json
+D:\Programmeerimise algkursus (RKE132)\FunctionsReturnAndArraysFromFile\ChuckNorris\bin\Debug\net5.0\ChuckNorris.runtimeconfig.dev.json
+D:\Programmeerimise algkursus (RKE132)\FunctionsReturnAndArraysFromFile\ChuckNorris\bin\Debug\net5.0\ChuckNorris.dll
+D:\Programmeerimise algkursus (RKE132)\FunctionsReturnAndArraysFromFile\ChuckNorris\bin\Debug\net5.0\ref\ChuckNorris.dll
+D:\Programmeerimise algkursus (RKE132)\FunctionsReturnAndArraysFromFile\ChuckNorris\bin\Debug\net5.0\ChuckNorris.pdb
+D:\Programmeerimise algkursus (RKE132)\FunctionsReturnAndArraysFromFile\ChuckNorris\obj\Debug\net5.0\ChuckNorris.csproj.AssemblyReference.cache
+D:\Programmeerimise algkursus (RKE132)\FunctionsReturnAndArraysFromFile\ChuckNorris\obj\Debug\net5.0\ChuckNorris.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmeerimise algkursus (RKE132)\FunctionsReturnAndArraysFromFile\ChuckNorris\obj\Debug\net5.0\ChuckNorris.AssemblyInfoInputs.cache
+D:\Programmeerimise algkursus (RKE132)\FunctionsReturnAndArraysFromFile\ChuckNorris\obj\Debug\net5.0\ChuckNorris.AssemblyInfo.cs
+D:\Programmeerimise algkursus (RKE132)\FunctionsReturnAndArraysFromFile\ChuckNorris\obj\Debug\net5.0\ChuckNorris.csproj.CoreCompileInputs.cache
+D:\Programmeerimise algkursus (RKE132)\FunctionsReturnAndArraysFromFile\ChuckNorris\obj\Debug\net5.0\ChuckNorris.dll
+D:\Programmeerimise algkursus (RKE132)\FunctionsReturnAndArraysFromFile\ChuckNorris\obj\Debug\net5.0\ref\ChuckNorris.dll
+D:\Programmeerimise algkursus (RKE132)\FunctionsReturnAndArraysFromFile\ChuckNorris\obj\Debug\net5.0\ChuckNorris.pdb
+D:\Programmeerimise algkursus (RKE132)\FunctionsReturnAndArraysFromFile\ChuckNorris\obj\Debug\net5.0\ChuckNorris.genruntimeconfig.cache
